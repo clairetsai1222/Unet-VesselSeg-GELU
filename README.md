@@ -1,0 +1,3 @@
+To enhance the performance of the U-Net model for vessel segmentation, we can modify the activation function by replacing the traditional ReLU with GELU (Gaussian Error Linear Unit). GELU has demonstrated superior performance in various deep learning tasks due to its smooth, non-linear characteristics, which can better capture complex patterns in medical imaging data.
+
+Part of the repo is reference to [This](https://github.com/lee-zq/VesselSeg-Pytorch.git) .
